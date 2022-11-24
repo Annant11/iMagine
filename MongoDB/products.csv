@@ -1,0 +1,69 @@
+__v,_id,brand,category,countInStock,createdAt,description,image,name,numReviews,price,rating,reviews,seller,updatedAt
+0,626d0612661ed025ac521f9d,Apple,phones,20,2022-04-30T09:49:06.334Z,"15 cm (6.1-inch) Super Retina XDR display with ProMotion for a faster, more responsive feel
+Cinematic mode adds shallow depth of field and shifts focus automatically in your videos
+Pro camera system with new 12MP Telephoto, Wide and Ultra Wide cameras; LiDAR Scanner; 6x optical zoom range; macro photography; Photographic Styles, ProRes video, Smart HDR 4, Night mode, Apple ProRAW, 4K Dolby Vision HDR recording
+12MP TrueDepth front camera with Night mode, 4K Dolby Vision HDR recording
+A15 Bionic chip for lightning-fast performance
+Up to 22 hours of video playback
+Durable design with Ceramic Shield
+Industry-leading IP68 water resistance
+iOS 15 packs new features to do more with iPhone than ever before
+Supports MagSafe accessories for easy attachment and faster wireless charging",/images/p1.jpg,Apple iPhone 13 Pro,10,119900,4.2,[],626d0605661ed025ac521f99,2022-04-30T09:49:06.334Z
+0,626d0612661ed025ac521f9e,Apple,phones,20,2022-04-30T09:49:06.334Z,"15 cm (6.1-inch) Super Retina XDR display
+Cinematic mode adds shallow depth of field and shifts focus automatically in your videos
+Advanced dual-camera system with 12MP Wide and Ultra Wide cameras; Photographic Styles, Smart HDR 4, Night mode, 4K Dolby Vision HDR recording
+12MP TrueDepth front camera with Night mode, 4K Dolby Vision HDR recording
+A15 Bionic chip for lightning-fast performance
+Up to 19 hours of video playback
+Durable design with Ceramic Shield
+Industry-leading IP68 water resistance
+iOS 15 packs new features to do more with iPhone than ever before
+Supports MagSafe accessories for easy attachment and faster wireless charging",/images/p2.jpg,Apple iPhone 13,10,73990,4.2,[],626d0605661ed025ac521f99,2022-04-30T09:49:06.334Z
+0,626d0612661ed025ac521f9f,Apple,phones,20,2022-04-30T09:49:06.335Z,"6.1-inch (15.5 cm diagonal) Super Retina XDR display
+Ceramic Shield, tougher than any smartphone glass
+A14 Bionic chip, the fastest chip ever in a smartphone
+Pro camera system with 12MP Ultra Wide, Wide and Telephoto cameras; 4x optical zoom range; Night mode, Deep Fusion, Smart HDR 3, Apple ProRAW, 4K Dolby Vision HDR recording
+LiDAR Scanner for improved AR experiences, Night mode portraits
+12MP TrueDepth front camera with Night mode, 4K Dolby Vision HDR recording
+Industry-leading IP68 water resistance
+Supports MagSafe accessories for easy attach and faster wireless charging
+iOS with redesigned widgets on the Home screen, all-new App Library, App Clips and more",/images/p3.jpg,Apple iPhone 12 Pro,10,109900,4.2,[],626d0605661ed025ac521f99,2022-04-30T09:49:06.335Z
+0,626d0612661ed025ac521fa0,Apple,phones,20,2022-04-30T09:49:06.335Z,"6.1-inch (15.5 cm diagonal) Super Retina XDR display
+Ceramic Shield, tougher than any smartphone glass
+A14 Bionic chip, the fastest chip ever in a smartphone
+Advanced dual-camera system with 12MP Ultra Wide and Wide cameras; Night mode, Deep Fusion, Smart HDR 3, 4K Dolby Vision HDR recording
+12MP TrueDepth front camera with Night mode, 4K Dolby Vision HDR recording
+Industry-leading IP68 water resistance
+Supports MagSafe accessories for easy attach and faster wireless charging
+iOS with redesigned widgets on the Home screen, all-new App Library, App Clips and more",/images/p4.jpg,Apple iPhone 12,10,57999,4.2,[],626d0605661ed025ac521f99,2022-04-30T09:49:06.335Z
+0,626d0612661ed025ac521fa1,Apple,phones,20,2022-04-30T09:49:06.335Z,"6.1-inch (15.5 cm diagonal) Super Retina XDR display
+Ceramic Shield, tougher than any smartphone glass
+A14 Bionic chip, the fastest chip ever in a smartphone
+Advanced dual-camera system with 12MP Ultra Wide and Wide cameras; Night mode, Deep Fusion, Smart HDR 3, 4K Dolby Vision HDR recording
+12MP TrueDepth front camera with Night mode, 4K Dolby Vision HDR recording
+Industry-leading IP68 water resistance
+Supports MagSafe accessories for easy attach and faster wireless charging
+iOS with redesigned widgets on the Home screen, all-new App Library, App Clips and more",/images/p5.jpg,Apple iPhone 11 Pro,10,106600,4.2,[],626d0605661ed025ac521f99,2022-04-30T09:49:06.335Z
+0,626d0612661ed025ac521fa2,Apple,phones,12,2022-04-30T09:49:06.335Z,"6.1-inch (15.4 cm diagonal) Liquid Retina HD LCD display
+Water and dust resistant (2 meters for up to 30 minutes, IP68)
+Dual-camera system with 12MP Ultra Wide and Wide cameras; Night mode, Portrait mode, and 4K video up to 60fps
+12MP TrueDepth front camera with Portrait mode, 4K video, and Slo-Mo
+Face ID for secure authentication
+A13 Bionic chip with third-generation Neural Engine
+Fast-charge capable
+iOS 15 packs new features to do more with iPhone than ever before
+iOS 14 with redesigned widgets on the Home screen, all-new App Library, App Clips, and more",/images/p6.jpg,Apple iPhone 11,10,49900,4.2,[],626d0605661ed025ac521f99,2022-04-30T09:49:06.335Z
+2,626d0612661ed025ac521fa3,Apple,phones,12,2022-04-30T09:49:06.335Z,"5.8-inch Super Retina display (OLED) with HDR1
+IP68 dust and water resistant (maximum depth of 2 metres up to 30 minutes)2
+12MP dual cameras with dual OIS and 7MP TrueDepth front camera — Portrait mode, Portrait Lighting, Depth Control and Smart HDR
+Face ID for secure authentication3
+A12 Bionic with next-generation Neural Engine
+Wireless charging—works with Qi chargers
+iOS 12 with Memoji, Screen Time, Siri Shortcuts, and Group FaceTime",/images/p7.jpg,Apple iPhone XS,2,45999,2,"[{""name"":""a"",""comment"":""non"",""rating"":1,""_id"":{""$oid"":""627626137bf984d1fda9f16d""},""createdAt"":{""$date"":""2022-05-07T07:56:03.079Z""},""updatedAt"":{""$date"":""2022-05-07T07:56:03.079Z""}},{""name"":""Axel"",""comment"":""Good"",""rating"":3,""_id"":{""$oid"":""627682da305e7ba16c6a35e8""},""createdAt"":{""$date"":""2022-05-07T14:31:54.924Z""},""updatedAt"":{""$date"":""2022-05-07T14:31:54.924Z""}}]",626d0605661ed025ac521f99,2022-05-07T14:31:54.924Z
+0,626d0612661ed025ac521fa4,Apple,phones,0,2022-04-30T09:49:06.335Z,"6.1-inch (15.5 cm diagonal) Liquid Retina HD LCD display
+Water and dust resistant (1 meter for up to 30 minutes, IP67)
+Single 12MP Wide camera with Portrait mode, Portrait Lighting, Depth Control, Smart HDR, and 4K video up to 60fps
+7MP TrueDepth front camera system with Portrait mode, Portrait Lighting, Depth Control, and 1080p video
+Face ID for secure authentication
+A12 Bionic with second-generation Neural Engine
+Fast-charge capable",/images/p8.jpg,Apple iPhone XR,10,39999,4.2,[],626d0605661ed025ac521f99,2022-04-30T09:49:06.335Z

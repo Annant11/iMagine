@@ -1,0 +1,4 @@
+__v,_id,createdAt,email,isAdmin,isSeller,name,password,seller.description,seller.logo,seller.name,seller.numReviews,seller.rating,updatedAt
+0,626d0605661ed025ac521f99,2022-04-30T09:48:54.001Z,admin@example.com,true,true,David,$2a$08$QoyHOHsjKDBaCQp0FKPr.ekXRdX/ITrTIhuOJTPK.ziRfsTe0yZAW,best seller,/images/logo1.png,,120,4.5,2022-05-07T14:24:22.334Z
+0,626d07293db0911e0448c25a,2022-04-30T09:53:45.893Z,axel@gmail.com,false,false,Axel,$2a$08$PZIYTMMFz9ItSmvOUfOm8OGHjID5TsBqJfMv3Jf/qb.FWWmJfD26i,,,,0,0,2022-05-07T14:16:01.094Z
+0,627687ec305e7ba16c6a3689,2022-05-07T14:53:32.601Z,hazel@gmail.com,false,false,Hazel,$2a$08$vOamFo5QfHxf7mPzeCMlVubeLwmW588n1IvArZLuFjAtvdsgwa3Ie,,,,0,0,2022-05-07T14:53:32.601Z
